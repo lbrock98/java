@@ -10,7 +10,7 @@ This program creates a player and a monster by reading from the .txt files in th
 Random generator, classes, loops, conditionals, command-line inputs, reading/writing to files. 
 
 ## Challenges and future implementations:
-I need to update the spells class has some bugs and needs to be updated. 
+I need to update the spells class. Ultimately this game could be transferred to a server and run with simple graphics.  
 
 ## Installation
 This app runs on any system that supports java code. 
