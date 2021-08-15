@@ -1,4 +1,4 @@
-# Guess the Word
+# Battle Game
 by Lucy Brock
 
 Creates a battlegame between a player and a monster. 
